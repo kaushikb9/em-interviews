@@ -23,7 +23,7 @@ Description [TODO]
 - expect you to be extremely hands-on with programming because you will be their first senior management level hire. You will be seen as a pseudo CTO
 
 **Series A/B Startups** - 30-100 engineers [TODO]
-- 
+- more like a tech lead with a lot of focus on delivery
 
 **Series C/D Startups** - 100-500 engineers [TODO]
 - focus on lot more on overall understanding of programming, system design, people management, processes and past experiences
@@ -110,26 +110,6 @@ Conducted by: Founders, HRBP
 - What is something you are proud of as an EM?
 
 ## Appendix
-
-### Based on real interview experiences for
-- Engineering Manager (Series C/D startups)
-- Director of Engineering (Series A/B startups)
-- VP Engineering (Seed/early-stage startups)
-
-### Ideal JD for above roles
-- 8+ years overall, 2+ years in leadership
-- Startup experience and can handle ambiguity
-- Experience with finding the right talent
-- Built 0 to 1 products or have seen massive rewrites
-
-
-### Based on actual interview experiences for
-
-### Ideal JD for above roles
-- 8+ years overall, 2+ years in leadership
-- Startup experience and can handle ambiguity
-- Experience with finding the right talent
-- Built 0 to 1 products or have seen massive rewrites
 
 
 ## Resources
