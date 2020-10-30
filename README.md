@@ -29,16 +29,16 @@ Description [TODO]
 - focus on lot more on overall understanding of programming, system design, people management, processes and past experiences
 - Lot of emphasis on scale, crushing business goals. There will be a lot of good structure in place with proper managment frameworks like OKRs
 
-## Interview Rounds
+# Interview Rounds
 
-### Introduction / Screening
+## Introduction / Screening
 - Brief introduction of the panel and candidate
 - What was the best thing you built?
 - What was the worst thing you built?
 - How would you do it if you had to do it all over again?
 - What was your team structure like? How did it change over time?
 
-### Programming
+## Programming
 **Conducted by**: Tech Leads
 
 - [Find the smallest positive number missing from an unsorted array](problems/smallest-positive-number.md)
