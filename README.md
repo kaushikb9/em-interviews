@@ -31,12 +31,13 @@ Description [TODO]
 
 # Interview Rounds
 
-## Introduction / Screening
+## Screening
 - Brief introduction of the panel and candidate
 - What was the best thing you built?
 - What was the worst thing you built?
 - How would you do it if you had to do it all over again?
 - What was your team structure like? How did it change over time?
+- What are you looking for in your next job?
 
 ## Programming
 **Conducted by**: Tech Leads
@@ -86,14 +87,27 @@ Description [TODO]
 
 **Note**: This round is super critical for leadership roles. This is what differentiates managers from Senior IC Engineers
 
+### You
+- What was your first tryst with leadership? What excites you about management?
+- What is a event where you stepped up?
+- As a manger, what is something you are extremely proud of?
+- As a manger, what has been a difficult situation you had to deal with?
+- Do you want to be an entrepreneur? What is stopping you right now?
+
+### Team
 - What was the composition of your team? According to what is an ideal team?
 - Did you have to manage people more experienced than you?
 - Have you hired people? What rounds would you conduct?
 - What are some traits you would you look for when hiring?
 - Are there examples of people in your team not performing? What action did you take?
 - Were there instances when you had to let go of people?
-- What was a difficult decision to make?
+- What are some of the things you did to build ownership?
+- What are some of the things you tried to build ownership but failed?
+- How do you give and take feedback?
 
+### Deliveries
+- How do you manage multiple priorities?
+- How do you deal with delays in timelines?
 
 ## Culture Fit 
 **Conducted by**: Founders, HRBP
@@ -102,6 +116,7 @@ Description [TODO]
 - What is a feedback you have received from the team?
 - What is a feedback you have received from your manager?
 - What is something you are proud of as an EM?
+- How do you deal with a star performer who is too arrogant to adopt the new processes you have introduced
 
 ## Offer
 
