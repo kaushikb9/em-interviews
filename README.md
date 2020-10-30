@@ -3,16 +3,16 @@ Repository of interview questions for Engineering Leadership roles - Engineering
 
 ## Table of Contents
 - [Roles and Expectations](#roles-and-expectations)
-- Interview Rounds
-    - Introduction / Screening
-    - Programming
-    - Design
-    - Architecture
-    - Management
-    - Culture Fit
-
-- Appendix
-- Resources
+- [Interview Rounds](#interview-rounds)
+    - [Screening](#screening)
+    - [Programming](#programming)
+    - [System Design](#system-design)
+    - [Architecture](#architecture)
+    - [Product Thinking](#product-thinking)
+    - [Management](#management)
+    - [Culture Fit](#culture-fit)
+    - [Offer](#offer)
+- [More Reading](#more-reading)
 
 ## Roles and Expectations
 
@@ -103,7 +103,6 @@ Description [TODO]
 - What is a feedback you have received from your manager?
 - What is something you are proud of as an EM?
 
-## Appendix
+### Offer
 
-
-## Resources
+## More Reading
