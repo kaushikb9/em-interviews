@@ -4,10 +4,10 @@ Repository of interview questions for Engineering Leadership roles - Engineering
 ## Table of Contents
 - Roles and Expectations
 - Interview Rounds
-    - Introduction / Screening Rounds
-    - Programming Rounds
-    - Design Rounds
-    - Architecture Rounds
+    - Introduction / Screening
+    - Programming
+    - Design
+    - Architecture
     - Management
     - Culture Fit
 
@@ -31,21 +31,21 @@ Description [TODO]
 
 ## Interview Rounds
 
-### Introduction / Screening Rounds
+### Introduction / Screening
 - Brief introduction of the panel and candidate
 - What was the best thing you built?
 - What was the worst thing you built?
 - How would you do it if you had to do it all over again?
 - What was your team structure like? How did it change over time?
 
-### Programming Rounds
+### Programming
 **Conducted by**: Tech Leads
 
 - [Find the smallest positive number missing from an unsorted array](problems/smallest-positive-number.md)
 - [Build a travesal alogorithm to lookup for valid words in a matrix](problems/matrix-traversal-words.md)
 - [Find the row in a matrix with minimum number of Os](problems/matrix-min-zeros.md)
 
-### Design Rounds
+### Design
 **Conducted by**: Sr. Engineers, Architects, Principal Engineers
 
 - [Design a ledger app for shops](problem/ledger-app.md)
@@ -63,7 +63,7 @@ Description [TODO]
 - Build a central distributed cache system for a large e-commerce player [TODO] - PTMLend
 
 
-### Architecture Rounds
+### Architecture
 **Conducted by**: CTO, Architects, Principal Engineers
 
 #### Concepts and Experience
