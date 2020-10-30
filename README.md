@@ -49,16 +49,18 @@ Description [TODO]
 **Conducted by**: Sr. Engineers, Architects, Principal Engineers
 
 - [Design a ledger app for shops](problem/ledger-app.md)
-- LRU Cache using Doubly LinkedList [TODO]
+- Implement a data structure that will get preferences for the 100 recent users on your app. [Similar Problem](https://www.geeksforgeeks.org/lru-cache-implementation/)
 - What would be the data structure to find top 10 hashtags in Twitter of any particular date?
-- What would be the 
+- How would you implement a system that generates unique IDs for various objects in Twitter considering this is a highly distributed system? [Real life implementation](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html)
 - How would you go about building a distributed load balancer from scratch?
 - How would you implement Fast.com from scratch?
-- Assuming different lines of business (Within Acko) how will you build a unified dashbard for management financial metrics [TODO]
+- Assuming different lines of business, how will you build a unified dashbard for management financial metrics [TODO]
 - how will you build a service to handle integration with amazon [TODO]
 - how will build for product sales in amazon (oneplus, redmi and such) [TODO]
 - Atl Problem (trucks) [TODO]
 - BMS url shortner for SMS [TODO]
+- Build a central notification system for a large e-commerce player [TODO] - PTMLend
+- Build a central distributed cache system for a large e-commerce player [TODO] - PTMLend
 
 
 ### Architecture Rounds
