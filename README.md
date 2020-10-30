@@ -45,7 +45,7 @@ Description [TODO]
 - [Build a travesal alogorithm to lookup for valid words in a matrix](problems/matrix-traversal-words.md)
 - [Find the row in a matrix with minimum number of Os](problems/matrix-min-zeros.md)
 
-### Design
+## Design
 **Conducted by**: Sr. Engineers, Architects, Principal Engineers
 
 - [Design a ledger app for shops](problem/ledger-app.md)
@@ -63,10 +63,10 @@ Description [TODO]
 - Build a central distributed cache system for a large e-commerce player [TODO] - PTMLend
 
 
-### Architecture
+## Architecture
 **Conducted by**: CTO, Architects, Principal Engineers
 
-#### Concepts and Experience
+### Concepts and Experience
 - Challenging problems you worked on as an IC
 - Monolith vs microservices. Pros and Cons. When to use what?
     - How is microservices better or worse purely based on scalibility (and not agility)
@@ -75,13 +75,13 @@ Description [TODO]
 - What are some examples of how you managed a P0 incident? What steps you took to ensure it is resolved and not repeated again
 - Atl Data engineering [TODO]
 
-### Product Thinking
+## Product Thinking
 **Conducted by**: Product Managers
 
 - As a PM in a cab hailing company, what would you build into the product so that you are ready for lockdown kind of situations if Covid 2.0 were to happen
 - As a PM in a low cost Airline, what is the research that you will do to start a new route for your airline? How would you make the pitch? What would you go about measuring P&L and how would you price the ticket?
 
-### Management
+## Management
 **Conducted by**: Founders, PMs, Hiring Manager
 
 **Note**: This round is super critical for leadership roles. This is what differentiates managers from Senior IC Engineers
@@ -95,7 +95,7 @@ Description [TODO]
 - What was a difficult decision to make?
 
 
-### Culture Fit 
+## Culture Fit 
 **Conducted by**: Founders, HRBP
 
 - How did people grow in your team? What are some good examples?
@@ -103,6 +103,6 @@ Description [TODO]
 - What is a feedback you have received from your manager?
 - What is something you are proud of as an EM?
 
-### Offer
+## Offer
 
-## More Reading
+# More Reading
