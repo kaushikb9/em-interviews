@@ -39,24 +39,16 @@ Description [TODO]
 - What was your team structure like? How did it change over time?
 
 ### Programming Rounds
-Conducted by: Tech Leads
+**Conducted by**: Tech Leads
 
 - [Find the smallest positive number missing from an unsorted array](problems/smallest-positive-number.md)
 - [Build a travesal alogorithm to lookup for valid words in a matrix](problems/matrix-traversal-words.md)
 - [Find the row in a matrix with minimum number of Os](problems/matrix-min-zeros.md)
 
 ### Design Rounds
-Conducted by: Sr. Engineers, Architects, Principal Engineers
+**Conducted by**: Sr. Engineers, Architects, Principal Engineers
 
-#### Design a credit/debit web or mobile app
-Problem Statement: (Buku)
-Expectations: 
-- Target users: SMEs
-- Users use this app to manage daily credit/debit transaction in the app
-- user can login with phone otp
-- User can have multiple shops
-- Every shop has set of customers
-
+- [Design a ledger app for shops](problem/ledger-app.md)
 - LRU Cache using Doubly LinkedList [TODO]
 - What would be the data structure to find top 10 hashtags in Twitter of any particular date?
 - What would be the 
@@ -70,7 +62,7 @@ Expectations:
 
 
 ### Architecture Rounds
-Conducted by: CTO, Architects, Principal Engineers
+**Conducted by**: CTO, Architects, Principal Engineers
 
 #### Concepts and Experience
 - Challenging problems you worked on as an IC
@@ -82,13 +74,13 @@ Conducted by: CTO, Architects, Principal Engineers
 - Atl Data engineering [TODO]
 
 ### Product Thinking
-Conducted by: Product Managers
+**Conducted by**: Product Managers
 
 - As a PM in a cab hailing company, what would you build into the product so that you are ready for lockdown kind of situations if Covid 2.0 were to happen
 - As a PM in a low cost Airline, what is the research that you will do to start a new route for your airline? How would you make the pitch? What would you go about measuring P&L and how would you price the ticket?
 
 ### Management
-Conducted by: Founders, PMs, Hiring Manager
+**Conducted by**: Founders, PMs, Hiring Manager
 
 **Note**: This round is super critical for leadership roles. This is what differentiates managers from Senior IC Engineers
 
@@ -102,7 +94,7 @@ Conducted by: Founders, PMs, Hiring Manager
 
 
 ### Culture Fit 
-Conducted by: Founders, HRBP
+**Conducted by**: Founders, HRBP
 
 - How did people grow in your team? What are some good examples?
 - What is a feedback you have received from the team?
