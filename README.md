@@ -120,5 +120,5 @@ These are usually projects which we need to implement at our own time and pace. 
 - How do you deal with a star performer who is too arrogant to adopt the new processes you have introduced
 
 ## Offer
-
-# More Reading
+- Your offer will always have a mix of fixed, variable and ESOPs
+- Try to negotiate for overall value depending on the stage of the company. In case of ESOPs ask for number of options and current valuation
