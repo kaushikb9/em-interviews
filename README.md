@@ -16,17 +16,15 @@ Repository of interview questions for Engineering Leadership roles - Engineering
 
 ## Roles and Expectations
 
-Description [TODO]
-
 **Early-stage, Seed Startups** - 5-30 engineers
 - will be hiring you as their first EM, Head of Engineering or VP Engineering. You will be responsible for leading the entire tech team and be the key person for all tech decisioning including architecture, team structure and hiring strategy
 - expect you to be extremely hands-on with programming because you will be their first senior management level hire. You will be seen as a pseudo CTO
 
-**Series A/B Startups** - 30-100 engineers [TODO]
-- more like a tech lead with a lot of focus on delivery
+**Series A/B Startups** - 30-100 engineers
+- more like a tech lead with a lot of focus on delivery and also play the role of an architect whenever needed
 
-**Series C/D Startups** - 100-500 engineers [TODO]
-- focus on lot more on overall understanding of programming, system design, people management, processes and past experiences
+**Series C/D Startups** - 100-500 engineers
+- focus on lot more on overall understanding of system design, people management, processes and past experiences
 - Lot of emphasis on scale, crushing business goals. There will be a lot of good structure in place with proper managment frameworks like OKRs
 
 # Interview Rounds
@@ -54,15 +52,17 @@ Description [TODO]
 - What would be the data structure to find top 10 hashtags in Twitter of any particular date?
 - How would you implement a system that generates unique IDs for various objects in Twitter considering this is a highly distributed system? [Real life implementation](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html)
 - How would you go about building a distributed load balancer from scratch?
-- How would you implement Fast.com from scratch?
-- Assuming different lines of business, how will you build a unified dashbard for management financial metrics [TODO]
-- how will you build a service to handle integration with amazon [TODO]
-- how will build for product sales in amazon (oneplus, redmi and such) [TODO]
-- Atl Problem (trucks) [TODO]
-- BMS url shortner for SMS [TODO]
-- Build a central notification system for a large e-commerce player [TODO] - PTMLend
-- Build a central distributed cache system for a large e-commerce player [TODO] - PTMLend
+- Assuming different lines of business, how will you build a unified dashbard for management financial metrics
+- Build a system that will manage sale of limited products in e-commerce campaigns (Example - OnePlus, Redmi launches in Amazom)
+- Build a URL shortner for an event management product that will be used to send ticket links in SMS
+- Build a central notification system for a large e-commerce player
+- Build a central distributed cache system for a large e-commerce player
 
+### Take Home Problem Statements
+These are usually projects which we need to implement at our own time and pace. Timelines are usually 3-5 days depending on complexity
+- How would you implement Fast.com from scratch? Write a detailed Tech Spec
+- Build a rule engine that will manage the workflows of a logistics company - implement the APIs
+- Build discoverability capabilities for a data lake
 
 ## Architecture
 **Conducted by**: CTO, Architects, Principal Engineers
@@ -74,7 +74,7 @@ Description [TODO]
 - DB sharding - what all should be tried out before you have to shard
 - NoSQL vs RDBMS - What will be your strategy to choose a specific type of DB
 - What are some examples of how you managed a P0 incident? What steps you took to ensure it is resolved and not repeated again
-- Atl Data engineering [TODO]
+- Define the architecture to build an offline-first mobile-first data collection platform
 
 ## Product Thinking
 **Conducted by**: Product Managers
@@ -88,7 +88,7 @@ Description [TODO]
 **Note**: This round is super critical for leadership roles. This is what differentiates managers from Senior IC Engineers
 
 ### You
-- What was your first tryst with leadership? What excites you about management?
+- How did you get into leadership? What excites you about management?
 - What is a event where you stepped up?
 - As a manger, what is something you are extremely proud of?
 - As a manger, what has been a difficult situation you had to deal with?
@@ -104,6 +104,7 @@ Description [TODO]
 - What are some of the things you did to build ownership?
 - What are some of the things you tried to build ownership but failed?
 - How do you give and take feedback?
+- How do you decide which problems you need to jump on to - team vs yourself?
 
 ### Deliveries
 - How do you manage multiple priorities?
