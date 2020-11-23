@@ -47,7 +47,7 @@ Repository of interview questions for Engineering Leadership roles - Engineering
 ## Design
 **Conducted by**: Sr. Engineers, Architects, Principal Engineers
 
-- [Design a ledger app for shops](problem/ledger-app.md)
+- [Design a ledger app for shops](problems/ledger-app.md)
 - Implement a data structure that will get preferences for the 100 recent users on your app. [Similar Problem](https://www.geeksforgeeks.org/lru-cache-implementation/)
 - What would be the data structure to find top 10 hashtags in Twitter of any particular date?
 - How would you implement a system that generates unique IDs for various objects in Twitter considering this is a highly distributed system? [Real life implementation](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html)
