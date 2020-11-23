@@ -37,6 +37,7 @@ Repository of interview questions for Engineering Leadership roles - Engineering
 - What was the worst thing you built?
 - How would you do it if you had to do it all over again?
 - What was your team structure like? How did it change over time?
+- How does code get deployed in your company? Who owns this?
 - What are you looking for in your next job?
 
 ## Programming
@@ -80,11 +81,18 @@ These are usually projects which we need to implement at our own time and pace. 
 - What are some examples of how you managed a P0 incident? What steps you took to ensure it is resolved and not repeated again
 - Define the architecture to build an offline-first mobile-first data collection platform
 
-## Product Thinking
+## Product Thinking and Execution
 **Conducted by**: Product Managers
 
+### Product Problems
 - As a PM in a cab hailing company, what would you build into the product so that you are ready for lockdown kind of situations if Covid 2.0 were to happen
 - As a PM in a low cost Airline, what is the research that you will do to start a new route for your airline? How would you make the pitch? What would you go about measuring P&L and how would you price the ticket?
+
+### Execution
+- How do you prioritise between business requirements and tech debt?
+- How do you plan - OKRs / Quarterly / Sprints?
+- How do you measure the success of a project?
+- How do you deal with production issues?
 
 ## Management
 **Conducted by**: Founders, PMs, Hiring Manager
