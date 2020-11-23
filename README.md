@@ -30,6 +30,8 @@ Repository of interview questions for Engineering Leadership roles - Engineering
 # Interview Rounds
 
 ## Screening
+**Conducted by**: A peer or your future manager
+
 - Brief introduction of the panel and candidate
 - What was the best thing you built?
 - What was the worst thing you built?
@@ -46,6 +48,8 @@ Repository of interview questions for Engineering Leadership roles - Engineering
 
 ## Design
 **Conducted by**: Sr. Engineers, Architects, Principal Engineers
+
+### Brainstorm with the Interviewer
 
 - [Design a ledger app for shops](problems/ledger-app.md)
 - Implement a data structure that will get preferences for the 100 recent users on your app. [Similar Problem](https://www.geeksforgeeks.org/lru-cache-implementation/)
