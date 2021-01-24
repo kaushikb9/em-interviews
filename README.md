@@ -25,7 +25,7 @@ Repository of interview questions for Engineering Leadership roles - Engineering
 
 **Series C/D Startups** - 100-500 engineers
 - focus on lot more on overall understanding of system design, people management, processes and past experiences
-- Lot of emphasis on scale, crushing business goals. There will be a lot of good structure in place with proper managment frameworks like OKRs
+- Lot of emphasis on scale, crushing business goals. There will be a lot of good structure in place with proper management frameworks like OKRs
 
 # Interview Rounds
 
@@ -44,7 +44,7 @@ Repository of interview questions for Engineering Leadership roles - Engineering
 **Conducted by**: Tech Leads
 
 - [Find the smallest positive number missing from an unsorted array](problems/smallest-positive-number.md)
-- [Build a travesal alogorithm to lookup for valid words in a matrix](problems/matrix-traversal-words.md)
+- [Build a traversal algorithm to lookup for valid words in a matrix](problems/matrix-traversal-words.md)
 - [Find the row in a matrix with minimum number of Os](problems/matrix-min-zeros.md)
 
 ## Design
@@ -57,8 +57,8 @@ Repository of interview questions for Engineering Leadership roles - Engineering
 - What would be the data structure to find top 10 hashtags in Twitter of any particular date?
 - How would you implement a system that generates unique IDs for various objects in Twitter considering this is a highly distributed system? [Real life implementation](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html)
 - How would you go about building a distributed load balancer from scratch?
-- Assuming different lines of business, how will you build a unified dashbard for management financial metrics
-- Build a system that will manage sale of limited products in e-commerce campaigns (Example - OnePlus, Redmi launches in Amazom)
+- Assuming different lines of business, how will you build a unified dashboard for management financial metrics
+- Build a system that will manage sale of limited products in e-commerce campaigns (Example - OnePlus, Redmi launches in Amazon)
 - Build a URL shortner for an event management product that will be used to send ticket links in SMS
 - Build a central notification system for a large e-commerce player
 - Build a central distributed cache system for a large e-commerce player
@@ -75,7 +75,7 @@ These are usually projects which we need to implement at our own time and pace. 
 ### Concepts and Experience
 - Challenging problems you worked on as an IC
 - Monolith vs microservices. Pros and Cons. When to use what?
-    - How is microservices better or worse purely based on scalibility (and not agility)
+    - How is microservices better or worse purely based on scalability (and not agility)
 - DB sharding - what all should be tried out before you have to shard
 - NoSQL vs RDBMS - What will be your strategy to choose a specific type of DB
 - What are some examples of how you managed a P0 incident? What steps you took to ensure it is resolved and not repeated again
@@ -101,16 +101,16 @@ These are usually projects which we need to implement at our own time and pace. 
 
 ### You
 - How did you get into leadership? What excites you about management?
-- What is a event where you stepped up?
+- What is an event where you stepped up?
 - As a manger, what is something you are extremely proud of?
-- As a manger, what has been a difficult situation you had to deal with?
+- As a manager, what has been a difficult situation you had to deal with?
 - Do you want to be an entrepreneur? What is stopping you right now?
 
 ### Team
 - What was the composition of your team? According to what is an ideal team?
 - Did you have to manage people more experienced than you?
 - Have you hired people? What rounds would you conduct?
-- What are some traits you would you look for when hiring?
+- What are some traits you would look for when hiring?
 - Are there examples of people in your team not performing? What action did you take?
 - Were there instances when you had to let go of people?
 - What are some of the things you did to build ownership?
@@ -122,7 +122,7 @@ These are usually projects which we need to implement at our own time and pace. 
 - How do you manage multiple priorities?
 - How do you deal with delays in timelines?
 
-## Culture Fit 
+## Culture Fit
 **Conducted by**: Founders, HRBP
 
 - How did people grow in your team? What are some good examples?
@@ -134,3 +134,5 @@ These are usually projects which we need to implement at our own time and pace. 
 ## Offer
 - Your offer will always have a mix of fixed, variable and ESOPs
 - Try to negotiate for overall value depending on the stage of the company. In case of ESOPs ask for number of options and current valuation
+
+
