@@ -1,5 +1,5 @@
 # Engineering Leadership Interviews
-Repository of interview questions for Engineering Leadership roles - Engineering Manager, Director of Engineering, VP Engineering and also senior IC roles
+Repository of interview questions for Engineering Leadership roles - Engineering Manager, Director of Engineering, VP Engineering and also senior IC roles. Based on my experience of interviewing with product startups in India
 
 ## Table of Contents
 - [Roles and Expectations](#roles-and-expectations)
