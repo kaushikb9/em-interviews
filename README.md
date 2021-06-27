@@ -31,6 +31,7 @@ Repository of interview questions for Engineering Leadership roles - Engineering
 
 ## Screening
 **Conducted by**: A peer or your future manager
+
 **What**: Getting to know each other. 
 
 - Brief introduction of the panel and candidate
@@ -43,6 +44,7 @@ Repository of interview questions for Engineering Leadership roles - Engineering
 
 ## Programming
 **Conducted by**: Tech Leads
+
 **What**: Not all companies have coding rounds for EMs. Early stage companies will definitely have one
 
 - [Find the smallest positive number missing from an unsorted array](problems/smallest-positive-number.md)
@@ -51,6 +53,7 @@ Repository of interview questions for Engineering Leadership roles - Engineering
 
 ## Design
 **Conducted by**: Sr. Engineers, Architects, Principal Engineers
+
 **What**: This is usually a LLD Round. The interviewer is trying to understand if you understand the fundamentals of designing a new system from scratch. Most companies will do this face to face. But some remote-first companies might give you a take home project
 
 ### Brainstorm with the Interviewer
@@ -74,6 +77,7 @@ These are usually projects which we need to implement at our own time and pace. 
 
 ## Architecture
 **Conducted by**: CTO, Architects, Principal Engineers
+
 **What**: HLD and System Design Concepts
 
 ### Concepts and Experience
@@ -87,6 +91,7 @@ These are usually projects which we need to implement at our own time and pace. 
 
 ## Product Thinking and Execution
 **Conducted by**: Product Managers
+
 **What**: Do you have a product first mindset and understand how product companies work? Can you work with different stakeholders
 
 ### Product Problems
@@ -101,6 +106,7 @@ These are usually projects which we need to implement at our own time and pace. 
 
 ## Management
 **Conducted by**: Founders, PMs, Hiring Manager
+
 **What**: Results, Impact, Leadership
 
 **Note**: This round is super critical for leadership roles. This is what differentiates managers from Senior IC Engineers
@@ -130,6 +136,7 @@ These are usually projects which we need to implement at our own time and pace. 
 
 ## Culture Fit
 **Conducted by**: Founders, HRBP
+
 **What**: People Management
 
 - How did people grow in your team? What are some good examples?
